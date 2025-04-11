@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "JWT",
+	"Description": "",
+	"Category": "Code Plugins",
+	"CreatedBy": "Ryckbosch Arthur",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/P0mmeDeTerre/JWT/wiki",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/59647bbb4ccf4da8a77e5e5f197ce9b5",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "EasyHttpRequest",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	]
+}
